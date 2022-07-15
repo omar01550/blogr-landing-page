@@ -6,6 +6,20 @@
    color: var(--dark-blue);
 
 }
+
+
+.login{
+   background-color: var(--white-color);
+   color: var(--red-color);
+}
+
+.show{
+   top: 0;
+}
+
+.back{
+   transform: translate(0,0);
+}
 .pointer{
    cursor: pointer;
 }
